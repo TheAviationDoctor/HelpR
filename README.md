@@ -1,3 +1,11 @@
 # HelpR
 
-This repository is meant to help the novice or intermediate R developer with pre-existing snippets of R code relevant to typical data importation, transformation, and visualization use cases. I have assembled this repository based on my own experience using R, as I would have wanted a single location from which to copy code from. The R code used in this repository typically offers three syntaxes for each use case: a base R version, a Tidyverse version, and a data.table version, to suit everyone's preferences and performance requirements. This repository is perpetually work-in-progress as new use cases get added.
+This repository is a collection of standalone snippets of R code relevant to typical data importation, transformation, and visualization use cases.
+
+It is meant as a reference for the novice-to-intermediate data scientist to adapt code to their project without resorting to time-consuming online search.
+
+Each snippet typically offers at least three syntaxes for each use case: a base R version, a Tidyverse version, and a data.table version, plus an occasional variant using a fit-for-purpose package, to suit every user's preferences and performance requirements.
+
+The code is not optimized for brevity, as in code golf. The code is instead optimized for readability.
+
+You are welcome to submit pull requests that enhance existing snippets or add new ones.
